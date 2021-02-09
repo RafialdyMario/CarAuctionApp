@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533362418266",
+    "project_id": "carauctionapp-1ef0a",
+    "storage_bucket": "carauctionapp-1ef0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533362418266:android:e4aec146e0e05d21152e63",
+        "android_client_info": {
+          "package_name": "com.rafialdy.auction_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533362418266-92m3uvvoem78e7rpil6f0nseo9t5468l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk4AEzxKhrXi_JXR2iwbLAoxUGi47LuJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533362418266-92m3uvvoem78e7rpil6f0nseo9t5468l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
